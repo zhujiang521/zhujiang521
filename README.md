@@ -12,15 +12,13 @@
 <td valign="top" width="50%">
 
 ### 开源项目  
-- [PlayAndroid](https://github.com/zhujiang521/PlayAndroid)Kotlin + MVVM + LCE版玩安卓	
-- [AndroidAOP](https://github.com/zhujiang521/AndroidAOP)aop的方式实现防止按钮重复点击，java和kotlin都能使用
-- [flutter_play_android](https://github.com/zhujiang521/flutter_play_android) Flutter版本的玩安卓 
-- [Skin](https://github.com/zhujiang521/Skin) 安卓暗黑模式适配
+- [PlayAndroid](https://github.com/zhujiang521/PlayAndroid)：Kotlin + MVVM + LCE版玩安卓	
+- [AndroidAOP](https://github.com/zhujiang521/AndroidAOP)：Aop的方式实现防止按钮重复点击，java和kotlin都能使用
    
-[查看更多](https://github.com/zhujiang521/zhujiang521)	 
-
+[查看更多](https://github.com/zhujiang521)	 
 	
 </td>
+
 <td valign="top" width="50%">
 
 ### 我的博客
@@ -30,5 +28,5 @@
 [查看更多](https://juejin.cn/user/3913917127985240)
 
 </td>
-</tr></table>
-
+</tr>
+</table>
