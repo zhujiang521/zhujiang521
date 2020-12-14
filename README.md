@@ -10,7 +10,7 @@
 
 ### 开源项目  
 - [PlayAndroid](https://github.com/zhujiang521/PlayAndroid)：Kotlin + MVVM + LCE版玩安卓	
-- [AndroidAOP](https://github.com/zhujiang521/AndroidAOP)：Aop的方式实现防止按钮重复点击，java和kotlin都能使用
+- [AndroidAOP](https://github.com/zhujiang521/AndroidAOP)：Aop的方式实现防止按钮重复点击
    
 [查看更多](https://github.com/zhujiang521)	 
 	
