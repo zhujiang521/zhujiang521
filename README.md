@@ -7,14 +7,13 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
-## 我的新书 
+<td valign="top" width="50%"> 
 
 ![Jetpack Compose：Android全新UI编程](https://img-blog.csdnimg.cn/img_convert/d817be2385c1ece97e008394a46e8fe7.png)
 </td>
 <td valign="top" width="50%">
 
-#### 《Jetpack Compose：Android全新UI编程》已出版
+#### 我的新书《Jetpack Compose：Android全新UI编程》已出版
 左边的图片就是新书的样子，是不是挺好看的，哈哈哈，我个人是这样认为的😂，下面是书籍介绍文章：[我的新书：《Jetpack Compose：Android全新UI编程》已出版](https://zhujiang.blog.csdn.net/article/details/121167705)
  
 `Compose` 绝对是 Android UI 的未来，声明式的 UI 已经有太多语言试水了，效果都非常好，大家如果喜欢本书的话，可以点击下面的地址进行购买。另外本书的资源文件大家可以去图灵的官网中进行下载。
@@ -24,8 +23,7 @@
 [当当购买地址](http://product.dangdang.com/593507948.html)
 
 [天猫购买地址](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.56.6a61b8d7HhFgCX&amp;id=658828404598&amp;areaId=110100&amp;user_id=2145487409&amp;cat_id=2&amp;is_b=1&amp;rn=1522259deab5178ef65819d1ef6b699e)
-	
-大的测试
+
 </td>
 </tr>
 <tr>
