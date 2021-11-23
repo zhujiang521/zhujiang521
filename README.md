@@ -7,11 +7,13 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
 ### 我的新书
+
 ![Jetpack Compose：Android全新UI编程](https://img-blog.csdnimg.cn/img_convert/d817be2385c1ece97e008394a46e8fe7.png)
 </td>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
+
 #### 《Jetpack Compose：Android全新UI编程》已出版
 左边的图片就是新书的样子，是不是挺好看的，哈哈哈，我个人是这样认为的😂，下面是书籍介绍文章：[我的新书：《Jetpack Compose：Android全新UI编程》已出版](https://zhujiang.blog.csdn.net/article/details/121167705)
  
