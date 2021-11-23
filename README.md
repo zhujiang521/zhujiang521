@@ -5,6 +5,9 @@
 
 <p align="center"> Android、Kotlin、Flutter、Compose </p>  
 
+<table align="center">
+<tr>
+<td valign="top" width="100%">
 ### 我的新书
 #### 《Jetpack Compose：Android全新UI编程》已出版
 ![Jetpack Compose：Android全新UI编程](https://img-blog.csdnimg.cn/img_convert/d817be2385c1ece97e008394a46e8fe7.png)
@@ -18,8 +21,9 @@
 [当当购买地址](http://product.dangdang.com/593507948.html)
 
 [天猫购买地址](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.56.6a61b8d7HhFgCX&amp;id=658828404598&amp;areaId=110100&amp;user_id=2145487409&amp;cat_id=2&amp;is_b=1&amp;rn=1522259deab5178ef65819d1ef6b699e)
-
-<table align="center"><tr>
+</td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 	
 ### 开源项目  
